@@ -1,0 +1,63 @@
+/* ADD YOUR CUSTOM CSS TO THIS FILE BELOW */
+
+			html{ margin: 0;
+				   padding: 0.3%;
+				   background-color: #965176; /*Magenta*/
+	    	}
+
+			h1{ font-family: "luckiest guy";
+			    font-size: 2.5em; 
+			    letter-spacing: 0.15em;
+			}
+
+			header{ color: white; 
+					background-color:#004346; /*Midnight green*/
+			}
+
+			img{ width: 175px;
+				
+			}
+
+			h2{ color:#006F74; /*Teal*/ 
+				 text-align: center;
+				 font-size: 2em;
+			} 
+
+			h3{ color:#8F3766; /*Purple*/
+				 text-align: center;
+				 font-size: 1.2em;
+			}
+
+			body{ font-family: Georgia, serif;
+ 				 font-size: 100%;
+ 				 margin: 0 8% 0; 
+ 				background-color: #E0E4D4; /*eggshell*/
+				border-style: double;
+				border-width: 12px;
+ 			}
+
+ 			a:link, a:visited{ color: deeppink; 
+ 			}
+
+ 			a:hover { text-decoration: underline;
+ 			   color: purple;
+ 			}
+
+ 			.leftcol { text-align: center;
+ 						padding: 1%;
+ 			}
+
+			.rightcol { text-align: center;
+						background-color: #CCD8E6; /*light blue*/
+						padding: 3%;
+			}
+
+			 ul.myUL { display: inline-block;
+			 	text-align: left; 
+			 }
+
+			 .contactinfo{ font-family: "Gelasio";
+			 				font-size: 1em;
+			 				text-align: center;
+			 }
+		
